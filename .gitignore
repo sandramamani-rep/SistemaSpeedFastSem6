@@ -1,0 +1,24 @@
+# === Compilados de Java ===
+out/
+build/
+target/
+*.class
+*.jar
+
+# === IntelliJ IDEA ===
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/httpRequests/
+.idea/dictionaries/
+
+# === Sistema operativo ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs y temporales ===
+*.log
+*.tmp
+*~
